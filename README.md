@@ -1,4 +1,4 @@
-# Deploy Laravel 8 en AWS (Menos de 5 minutos)
+# Deploy Laravel 11 en AWS (Menos de 5 minutos)
 
 
 ### Actualización de paquetes Ubuntu
@@ -12,6 +12,7 @@
 `sudo apt-get install apache2`  
 
 ### PHP 7.4
+###  estos comandos instalan la version actual 
 `sudo apt install php php-cli php-fpm php-json php-common php-mysql php-zip php-gd php-mbstring php-curl php-xml php-pear php-bcmath`  
 
 ### Composer
