@@ -43,6 +43,14 @@
 ### Instalación proyecto Laravel 8
 `composer create-project laravel/laravel nombre_proyecto`  
 
+### para la version 11 de laravel añadir este paquete y correr las migraciones 
+### se se esta trabajando con la base de datos por defecto al usar la instalacion con composer
+### si se cambia la base de datos hacer la respectiva configuracion
+
+`sudo apt-get install php-sqlite3`  
+
+
+
 ### Video explicativo:
 [https://youtu.be/uNjyopVYqHU](https://youtu.be/uNjyopVYqHU)
 
