@@ -11,7 +11,7 @@
 ### Apache2
 `sudo apt-get install apache2`  
 
-### PHP 7.4 (version actual)
+### PHP 7.4 ( o la version actual )
 ###  estos comandos instalan la version actual 
 `sudo apt install php php-cli php-fpm php-json php-common php-mysql php-zip php-gd php-mbstring php-curl php-xml php-pear php-bcmath`  
 
